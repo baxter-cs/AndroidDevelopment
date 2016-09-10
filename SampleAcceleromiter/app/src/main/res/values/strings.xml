@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample Acceleromiter</string>
+    <string name="Active">Moving</string>
+    <string name="Not_Active">Not Moving</string>
+    <string name="gps_network_not_enabled">Gps is not enabled</string>
+    <string name="open_location_settings">Open Location Settings</string>
+    <string name="Cancel">Cancel</string>
+</resources>
