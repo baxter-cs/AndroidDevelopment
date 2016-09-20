@@ -1,0 +1,12 @@
+morse_to_eng():
+
+letterbuffer = temporary list of multiple characters composing a multi-
+character letter in morse. wiped when reaching the end of a letter. translated
+to english letter before being passed to wordbuffer.
+
+wordbuffer = temporary list which has the letterbuffer added to it before the
+letterbuffer is wiped. the wordbuffer is wiped when the loop reaches the end-
+of-word delimiter.
+
+sentencebuffer = list which has the wordbuffer added to the end of it before the
+wordbuffer is wiped.
